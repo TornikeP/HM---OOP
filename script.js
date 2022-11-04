@@ -21,12 +21,16 @@ function Person (pName, pAge, pCars ) {
        }
 }
 
+
+// var bill = new Person ("bill", 13)
+// bill.displayInfo()
+
 var tom = new Person ("Tom", 24)
 tom.displayInfo()
 
 var cr = new Car ("Tesla", "Model S", 2015)
 tom.driveCar(cr)
-
+ 
 
 
 
